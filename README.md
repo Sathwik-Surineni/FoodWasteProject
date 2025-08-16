@@ -119,6 +119,10 @@ streamlit run app.py
 
 -Deploy 🚀 → Share the public URL
 
+## App Link :
+```
+https://foodwasteproject-vhkfho6tlgk8lhtwxvx9hw.streamlit.app/
+```
 ### 📈 Results
 
 -Fully functional Streamlit dashboard
